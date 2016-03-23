@@ -1,2 +1,2 @@
 # angular1.2.x
-angular .2.x源码学习研究
+angular 1.2.x源码学习研究
